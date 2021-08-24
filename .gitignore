@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Tanvir.BookStore_Test/.vs/Tanvir.BookStore_Test
+/Tanvir.BookStore_Test/Tanvir.BookStore_Test/bin/Debug/netcoreapp3.1
+/Tanvir.BookStore_Test/Tanvir.BookStore_Test/obj
